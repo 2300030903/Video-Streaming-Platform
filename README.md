@@ -49,36 +49,5 @@ Docker, NGINX
 
 AWS / Vercel / Netlify / DigitalOcean
 
-VideoStreamingPlatform/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── teamproject/
-│   │   │           └── videostreaming/
-│   │   │               ├── controller/
-│   │   │               │   └── VideoController.java
-│   │   │               ├── model/
-│   │   │               │   └── Video.java
-│   │   │               ├── repository/
-│   │   │               │   └── VideoRepository.java
-│   │   │               ├── service/
-│   │   │               │   └── VideoService.java
-│   │   │               └── VideostreamingApplication.java
-│   │   ├── resources/
-│   │   │   ├── static/
-│   │   │   ├── templates/
-│   │   │   └── application.properties
-│   ├── test/
-│   │   └── java/
-│   │       └── com/
-│   │           └── teamproject/
-│   │               └── videostreaming/
-│   │                   └── VideostreamingApplicationTests.java
-├── .gitignore
-├── HELP.md
-├── mvnw
-├── mvnw.cmd
-├── pom.xml
-└── README.md
+![Alt text]("C:\Users\giris\OneDrive\Pictures\Screenshots\Screenshot 2025-05-11 073514.png")
 
